@@ -20,3 +20,11 @@ Entry for make.fun competition
 Run `python3 main.py` to write `entry.txt` — 100 characters, no trailing
 newline — into `$MAKEFUN_OUTPUT_DIR` (or `/output` when it is unset).
 Standard library only.
+
+## make.fun
+
+[![make.fun · u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a](https://make.fun/badge/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a.svg)](https://make.fun/bounty/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a)
+[![rank](https://make.fun/badge/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a/faisalridhomp/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a/rank.svg)](https://make.fun/bounty/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a)
+[![reward](https://make.fun/badge/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a/faisalridhomp/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a/reward.svg)](https://make.fun/bounty/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a)
+
+Entry for the [Laugh Track: The Crypto Trading Joke Contest bounty on make.fun](https://make.fun/bounty/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a).
